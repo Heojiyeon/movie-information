@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Movie-information App
 
 영화정보를 확인할 수 있는 서비스
+
 사용 API: https://yts.mx/api/v2/list_movies.json
 
 원하는 영화의 title 클릭 시, 해당 url로 이동하며 보다 다양한 정보를 확인할 수 있습니다.
