@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.movieInfo {
+    border-style:double;
+    padding: auto;
+    text-align: center;
+}
+
+.img {
+    padding-top: 20px;
+}
+
+.summary {
+    height: 100px;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    margin: 30px;
+}
+
+.genre_ul {
+    display: flex;
+    justify-content: center;
+}
+
+.genre_list {
+    list-style: none;
+}
